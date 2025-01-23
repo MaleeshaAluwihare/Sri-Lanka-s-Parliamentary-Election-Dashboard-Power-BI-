@@ -28,7 +28,7 @@ The dataset was created by scraping the election results from [elections.gov.lk]
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/MaleeshaAluwihare/Sri-Lanka-s-Parliamentary-Election-Dashboard-Power-BI-.git
    ```
 2. Open the `.pbix` file in Power BI Desktop.
 3. Explore the interactive visualizations and customize them as needed.

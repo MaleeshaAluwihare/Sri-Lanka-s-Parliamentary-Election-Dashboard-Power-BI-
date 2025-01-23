@@ -1,1 +1,1 @@
-# Sri-Lanka-s-Parliamentary-Election-Dashboard-Power-BI-
+# Sri Lanka's Parliamentary Election Dashboard (Power BI)

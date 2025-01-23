@@ -4,8 +4,7 @@ This repository contains a Power BI dashboard for visualizing and analyzing Sri 
 
 ## Features
 - Comprehensive visualization of election results, including seat distributions, vote counts, and regional performance.
-- Interactive filters to explore data by year, district, or party.
-- Insights into voting trends and comparisons across different elections.
+- Interactive filters to explore data by district, or party.
 
 ## Screenshots
 Below are screenshots of the dashboard:
